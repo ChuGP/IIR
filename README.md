@@ -1,5 +1,6 @@
 # IIR
 Informaiton Retrieval and Applications
+Use `Java and Lucene library`
 
 1: `Index Construction `
 
